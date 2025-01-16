@@ -172,7 +172,6 @@ export const projects = [
       "Threadding",
       "Dequeue",
     ],
-    github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
     id: 3,
@@ -181,7 +180,6 @@ export const projects = [
       "Created a script using PyAutoGUI and Selenium to automate captcha-solving on MCA websites by simulating mouse actions and interacting with the website.",
     image: "https://i.sstatic.net/mStXU.jpg",
     tags: ["Pyautogui", "Selenium"],
-    github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
     id: 4,
@@ -190,7 +188,6 @@ export const projects = [
       "Created a script using PyAutoGUI and Selenium to automate captcha-solving on MCA websites by simulating mouse actions and interacting with the website.",
     image: "https://i.sstatic.net/mStXU.jpg",
     tags: ["Python", "PyAutoGUI", "Subprocess", "Time"],
-    github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
     id: 5,
@@ -199,7 +196,6 @@ export const projects = [
       "Built a desktop app using PyQt5 to transliterate company names into languages like Hindi, Marathi, Gujarati, and Telugu using phonetic words and the Google Translate API. The app stores the transliterated data in an SQL database for easy management and retrieval",
     image: "https://i.sstatic.net/mStXU.jpg",
     tags: ["Python", "Pandas", "pyQt5", "Threading", "MongoDB", "MsSQL"],
-    github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
     id: 6,
@@ -208,6 +204,5 @@ export const projects = [
       "Created a exe to extract attachments (images, files) from PDF documents and merge multiple PDF files into one.",
     image: "https://i.sstatic.net/mStXU.jpg",
     tags: ["Python", "PyQt5"],
-    github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
 ];
