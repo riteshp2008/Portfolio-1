@@ -150,7 +150,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 1,
     title: "Stock Charts Technical Analysis ",
     description:
       "Stock Charts Technical Analysis is a web application that provides stock market data visualization and technical analysis. It allows users to view stock data, analyze trends, and make informed investment decisions. The application is built using Django, MySQL, JavaScript, CSS",
@@ -161,7 +161,7 @@ export const projects = [
     github: "http://capitacharts.com/",
   },
   {
-    id: 11,
+    id: 2,
     title: "MiraeAssets Portfolio Integration",
     description:
       "Developed a Python script using multiprocessing for FIFO logic with deque to handle large-scale portfolio transaction data. It utilizes NumPy for calculations and threading for automating corporate actions (Bonus, Dividend, Merger, Demerger, Split, ROC). The system ensures efficient updates, accurate data storage, and improved reporting and action management.",
@@ -179,7 +179,7 @@ export const projects = [
     github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
-    id: 11,
+    id: 3,
     title: "Web Captcha Reader",
     description:
       "Created a script using PyAutoGUI and Selenium to automate captcha-solving on MCA websites by simulating mouse actions and interacting with the website.",
@@ -188,7 +188,7 @@ export const projects = [
     github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
-    id: 11,
+    id: 4,
     title: "Automating XBRL Tool with PyAutoGUI",
     description:
       "Created a script using PyAutoGUI and Selenium to automate captcha-solving on MCA websites by simulating mouse actions and interacting with the website.",
@@ -197,7 +197,7 @@ export const projects = [
     github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
-    id: 11,
+    id: 5,
     title: "Words Transliteration",
     description:
       "Built a desktop app using PyQt5 to transliterate company names into languages like Hindi, Marathi, Gujarati, and Telugu using phonetic words and the Google Translate API. The app stores the transliterated data in an SQL database for easy management and retrieval",
@@ -206,7 +206,7 @@ export const projects = [
     github: "https://github.com/Kusamthakur/chat-app_using_mern",
   },
   {
-    id: 11,
+    id: 6,
     title: "PDF File Attachment Extractor and Merge PDF",
     description:
       "Created a exe to extract attachments (images, files) from PDF documents and merge multiple PDF files into one.",
