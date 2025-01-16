@@ -101,7 +101,7 @@ const Projects = () => {
             marginBottom: "40px",
           }}
         >
-          I have worked on a wide range of projects.Here are some of my
+          I have worked on a wide range of projects. Here are some of my
           projects.
         </Desc>
 
