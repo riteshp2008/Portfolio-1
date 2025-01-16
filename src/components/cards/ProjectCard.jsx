@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Card = styled.div`
   width: 330px;
-  height: auto;
+  height: 350px;
   background-color: ${({ theme }) => theme.card};
   cursor: pointer;
   border-radius: 10px;
@@ -110,10 +110,11 @@ const ProjectCard = ({ project }) => {
           <Avatar src={member.img} />
         ))}
       </Members>
-
-      <Button href={project.github} target="_blank">
-        Visit
-      </Button>
+      {project.github && (
+        <Button href={project.github} target="_blank">
+          Visit
+        </Button>
+      )}
     </Card>
   );
 };
