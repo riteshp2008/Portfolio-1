@@ -84,7 +84,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Nirali Patel</Logo>
+        <Logo>Neha</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -106,7 +106,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Kusam All rights reserved.</Copyright>
+        <Copyright>&copy; 2025@Nirali All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
