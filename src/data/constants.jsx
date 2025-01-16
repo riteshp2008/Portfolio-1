@@ -3,9 +3,8 @@ export const Bio = {
   roles: ["Python Developer", "Full Stack Developer", "Django Developer"],
   description:
     "Developer with over 2 years+ of experience, skilled in Python, Django, JavaScript, and databases. Focused on writing clean, modular code and creating automation and data-driven solutions. Quick to adapt to new technologies and consistently delivers high-quality results.",
-  github: "https://github.com/",
   resume: "",
-  linkedin: "https://www.linkedin.com/in/kusam-thakur-b05497269/",
+  linkedin: "https://www.linkedin.com/in/nirali-s-patel/",
 };
 
 export const skills = [
