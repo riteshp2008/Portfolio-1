@@ -177,8 +177,8 @@ const Navbar = () => {
         )}
 
         <ButtonContainer>
-          <GithubButton href={Bio.github} target="_Blank">
-          LinkedIn
+          <GithubButton href={Bio.linkedin} target="_Blank">
+            LinkedIn
           </GithubButton>
         </ButtonContainer>
       </NavbarContainer>
