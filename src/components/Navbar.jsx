@@ -132,7 +132,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">Kusam</NavLogo>
+        <NavLogo to="/">Nirali</NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
@@ -171,14 +171,14 @@ const Navbar = () => {
                 color: theme.text_primary,
               }}
             >
-              Github Profile
+              LinkedIn
             </GithubButton>
           </MobileMenu>
         )}
 
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
-            Github Profile
+          LinkedIn
           </GithubButton>
         </ButtonContainer>
       </NavbarContainer>
